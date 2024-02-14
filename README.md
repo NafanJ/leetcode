@@ -13,8 +13,8 @@ This repository contains my solutions to various coding problems on LeetCode. Th
 
 ## Array Problems
 
-- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Solution](./top-interview-questions/array/remove-duplicates/remove_duplicates.py)
-- [27. Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/) - [Solution](./top-interview-questions/array/)
+- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Solution](./top-interview-questions/array/remove_duplicates.py)
+- [27. Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/) - [Solution](./top-interview-questions/array/buy_and_sell_stock.py)
 
 ## String Problems
 
