@@ -17,6 +17,7 @@ This repository contains my solutions to various coding problems on LeetCode. Th
 - [27. Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/) - [Solution](./top-interview-questions/array/buy_and_sell_stock.py)
 - [189. Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) - [Solution](./top-interview-questions/array/rotate_array.py)
 - [217. Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) - [Solution](./top-interview-questions/array/contains_duplicate.py)
+- [136. Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) - [Solution](./top-interview-questions/array/single_number.py)
 
 ## String Problems
 
