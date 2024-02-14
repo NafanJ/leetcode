@@ -15,7 +15,8 @@ This repository contains my solutions to various coding problems on LeetCode. Th
 
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Solution](./top-interview-questions/array/remove_duplicates.py)
 - [27. Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/) - [Solution](./top-interview-questions/array/buy_and_sell_stock.py)
-- [189.](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) - [Solution](./top-interview-questions/array/rotate_array.py)
+- [189. Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) - [Solution](./top-interview-questions/array/rotate_array.py)
+- [217. Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) - [Solution](./top-interview-questions/array/contains_duplicate.py)
 
 ## String Problems
 
