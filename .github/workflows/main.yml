@@ -19,5 +19,7 @@ jobs:
         python -m pip install --upgrade pip
     - name: Run unittests
       run: |
+        echo "Running Array tests..."
         python3 -m unittest discover -s top-interview-questions/array -p '*.py'
+        echo "Running String tests..."
         python3 -m unittest discover -s top-interview-questions/strings -p '*.py'
