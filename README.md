@@ -20,6 +20,7 @@ This repository contains my solutions to various coding problems on LeetCode. Th
 - [136. Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) - [Solution](./top-interview-questions/array/single_number.py)
 - [350. Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) - [Solution](./top-interview-questions/array/intersection_of_two_arrays.py)
 - [66. Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/) - [Solution](./top-interview-questions/array/plus_one.py)
+- [283. Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/) - [Solution](./top-interview-questions/array/move_zeroes.py)
 
 ## String Problems
 
