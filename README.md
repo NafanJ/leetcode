@@ -19,6 +19,7 @@ This repository contains my solutions to various coding problems on LeetCode. Th
 - [217. Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) - [Solution](./top-interview-questions/array/contains_duplicate.py)
 - [136. Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) - [Solution](./top-interview-questions/array/single_number.py)
 - [350. Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) - [Solution](./top-interview-questions/array/intersection_of_two_arrays.py)
+- [66. Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/) - [Solution](./top-interview-questions/array/plus_one.py)
 
 ## String Problems
 
