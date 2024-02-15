@@ -25,7 +25,7 @@ This repository contains my solutions to various coding problems on LeetCode. Th
 
 ## String Problems
 
-- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - [Solution](./003_longest_substring_without_repeating_characters.py)
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - [Solution](./top-interview-questions/strings/longest_substring.py)
 
 ## Linked List Problems
 
