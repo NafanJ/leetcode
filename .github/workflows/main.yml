@@ -20,3 +20,4 @@ jobs:
     - name: Run unittests
       run: |
         python3 -m unittest discover -s top-interview-questions/array -p '*.py'
+        python3 -m unittest discover -s top-interview-questions/strings -p '*.py'
