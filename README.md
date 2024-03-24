@@ -22,6 +22,7 @@ This repository contains my solutions to various coding problems on LeetCode. Th
 - [66. Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/) - [Solution](./top-interview-questions/array/plus_one.py)
 - [283. Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/) - [Solution](./top-interview-questions/array/move_zeroes.py)
 - [1. Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/) - [Solution](./top-interview-questions/array/two_sum.py)
+- [769. Valid Soduko](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/) - [Solution](./top-interview-questions/array/is_valid_soduko.py)
 
 ## String Problems
 
