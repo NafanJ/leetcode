@@ -47,7 +47,3 @@ Each problem link in the table of contents takes you to the corresponding LeetCo
 ## Contributing
 
 Feel free to fork this repository and submit pull requests to add more solutions or improve existing ones.
-
-## License
-
-This project is open-sourced under the MIT license.
